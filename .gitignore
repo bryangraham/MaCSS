@@ -28,6 +28,6 @@
 *.*~
 
 # Source spreadsheet files
-*.ods
-*.xls
-*.xlsx
+# *.ods
+# *.xls
+# *.xlsx
